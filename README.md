@@ -28,7 +28,7 @@ This repository houses the source code for my personal developer portfolio websi
 
 * **Live URL:** [rahat69x.vercel.app](https://rahat69x.vercel.app/)
 * **Author:** Mahamudol Hasan Rahat (CSE @ East West University)
-* **GitHub:** [@Rahat69x](https://github.com/Rahat69x)
+* **GitHub:** [@rahat4528](https://github.com/rahat4528)
 
 ---
 
@@ -103,7 +103,7 @@ No package manager, dependencies, or build step required.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Rahat69x/rahat.git
+   git clone https://github.com/rahat4528/rahat.git
    cd rahat
    ```
 
@@ -121,7 +121,7 @@ No package manager, dependencies, or build step required.
 * **Email:** [rahat4528.univ@gmail.com](mailto:rahat4528.univ@gmail.com)
 * **WhatsApp:** [+880 164 183 4481](https://wa.me/8801641834481)
 * **Telegram:** [+880 164 183 4481](https://t.me/+8801641834481)
-* **GitHub:** [@Rahat69x](https://github.com/Rahat69x)
+* **GitHub:** [@rahat4528](https://github.com/rahat4528)
 * **Website:** [rahat69x.vercel.app](https://rahat69x.vercel.app)
 
 ---
