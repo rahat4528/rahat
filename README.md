@@ -7,6 +7,9 @@
   </p>
 
   <p align="center">
+    <a href="https://rahat4528.github.io/rahat/" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub_Pages-rahat4528.github.io%2Frahat-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" />
+    </a>
     <a href="https://rahat69x.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Live_Demo-rahat69x.vercel.app-22d3ee?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
     </a>
@@ -26,7 +29,8 @@
 
 This repository houses the source code for my personal developer portfolio website. Built without heavy frameworks, bundlers, or build tools, the site delivers a rich, interactive digital experience with sub-second load times, fluid physics-based animations, and custom audio-visual interactions.
 
-* **Live URL:** [rahat69x.vercel.app](https://rahat69x.vercel.app/)
+* **GitHub Pages:** [https://rahat4528.github.io/rahat/](https://rahat4528.github.io/rahat/)
+* **Live Demo (Vercel):** [https://rahat69x.vercel.app/](https://rahat69x.vercel.app/)
 * **Author:** Mahamudol Hasan Rahat (CSE @ East West University)
 * **GitHub:** [@rahat4528](https://github.com/rahat4528)
 
